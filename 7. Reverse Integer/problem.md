@@ -14,18 +14,19 @@ Input: x = 123
 Output: 321
 </pre>
 
-<pre>
 **Example 2:**
+<pre>
 Input: x = -123
 Output: -321
 </pre>
 
-<pre>
 **Example 3:**
+<pre>
 Input: x = 120
 Output: 21
 </pre>
 
 <hr>
 Constraints:
+
 1. <code>-2<sup>31</su> <= x <= 231 - 1</code>
