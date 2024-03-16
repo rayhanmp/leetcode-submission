@@ -10,6 +10,7 @@
 3. Every close bracket has a corresponding open bracket of the same type.
  
 <hr>
+
 **Example 1:**
 <pre>
 Input: s = "()"
