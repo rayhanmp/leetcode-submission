@@ -1,5 +1,5 @@
 <h2>Palindrome Number</h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />
-<p>Time: 0 ms (100.00%) | Memory: 5.62 MB (82.72%)</p>
+<p><strong>Time:</strong> 0 ms (100.00%) | <strong>Memory:</strong> 5.62 MB (82.72%)</p>
 <hr>
 <p>Given an integer x, return true if x is a palindrome, and false otherwise.</p>
 
@@ -20,4 +20,5 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.</pre
  
 <hr>
 Constraints:
-1. <code>-231 <= x <= 231 - 1</code>
+
+1. <code>-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1</code>
