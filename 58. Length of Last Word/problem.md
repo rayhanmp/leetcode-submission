@@ -1,4 +1,4 @@
-<h2>Length of Last Wordr</h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />
+<h2>Length of Last Word</h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />
 <p><strong>Time:</strong> 0 ms (100.00%) | <strong>Memory:</strong> 5.43 MB (81.68%)</p>
 <hr>
 <p>Given a string s consisting of words and spaces, return the length of the last word in the string.</p>
